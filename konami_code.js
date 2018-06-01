@@ -33,7 +33,6 @@ function onKeyDownHandler(e) {
  
     if (index === codes.length) {
       alert("Done!!");
-      console.log('done!!')
  
       index = 0;
     }
