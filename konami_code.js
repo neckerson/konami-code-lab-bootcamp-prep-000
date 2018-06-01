@@ -37,6 +37,7 @@ function onKeyDownHandler(e) {
       index = 0;
     }
   } else {
+    alert("Nope!!!")
     index = 0;
   }
 }
